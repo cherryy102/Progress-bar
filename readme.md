@@ -7,15 +7,15 @@ Example:
 
      <script>
          progressBar(80, 1.5, 0);
-        </script>
+     </script>
 HTML code:
 
-    <div class="progress__bar">
-	    <div class="progress__bar__percent">0%</div>
-	    <div class="progress__bar__rail">
-		    <div class="progress__bar__line"></div>
-	    </div>
-    </div>
+     <div class="progress__bar">
+        <div class="progress__bar__percent">0%</div>
+        <div class="progress__bar__rail">
+            <div class="progress__bar__line"></div>
+        </div>
+      </div>
     
 If we want to have several progress bars, we have to call this function as many times as there are bars.
 
@@ -27,7 +27,7 @@ You can change width, height, bar color and font color in style.css. Variables a
     --barBgcColor: #cecece;
     --barColor: #009E66;
     --fontColor: black;
-   ## [Demo](http://portfolio.gryimprezowe.pl/progress-bar)
+   ## [Demo](https://gryimprezowe.pl/progress-bar/)
     
 
 
