@@ -6,6 +6,7 @@ Example:
     <script>
      progressBar(80, 1.5, 0);
     </script>
+    
 If we want to have several progress bars, we have to call this function as many times as there are bars.
 
 You can change width, height, bar color and font color in style.css. Variables are responsible for this:
