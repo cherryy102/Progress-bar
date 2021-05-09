@@ -1,3 +1,4 @@
+//created by Damian Wiśniowski https://portfolio.gryimprezowe.pl/
 const barLine = document.querySelectorAll('.progress__bar__line');
 const barPercent = document.querySelectorAll('.progress__bar__percent ');
 
