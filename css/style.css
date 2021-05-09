@@ -1,17 +1,15 @@
 :root {
+  /* start values*/
   --barWidth: 700px;
   --barHeight: 10px;
   --barBgcColor: #cecece;
   --barColor: #009E66;
-}
-
-body {
-  background-color: #101010;
+  --fontColor: black;
 }
 
 .progress__bar {
   width: var(--barWidth);
-  font-family: 'Roboto Mono', monospace;
+  font-family: 'Roboto Mono', monospace, arial;
 }
 
 .progress__bar__rail {
@@ -35,6 +33,6 @@ body {
   width: 0%;
   text-align: right;
   margin-bottom: 10px;
-  color: white;
+  color: var(--fontColor);
 }
 /*# sourceMappingURL=style.css.map */
