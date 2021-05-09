@@ -17,7 +17,7 @@ You can change width, height, bar color and font color in style.css. Variables a
     --barBgcColor: #cecece;
     --barColor: #009E66;
     --fontColor: black;
-   ## [Demo](http://portfolio.gryimprezowe.pl/progress-bar)
+   ## [Demo](https://gryimprezowe.pl/progress-bar/)
     
 
 
